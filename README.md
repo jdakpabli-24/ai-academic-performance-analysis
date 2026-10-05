@@ -41,11 +41,11 @@ The dashboard was designed across multiple pages to provide an overview of AI us
 
 ### 1. Overview
 
-![Dashboard Overview](overview.png)
+![Dashboard Overview](Overview.png)
 
 ### 2. AI Usage
 
-![AI Usage](ai_usage.png)
+![AI Usage](ai-usage.png)
 
 ### 3. Well-being
 
@@ -53,7 +53,7 @@ The dashboard was designed across multiple pages to provide an overview of AI us
 
 ### 4. Academic Performance
 
-![Academic Performance](academic_performance.png)
+![Academic Performance](performance.png)
 
 
 ## Key Insights
@@ -97,9 +97,3 @@ The analysis also showed that anxiety tended to be higher among students in the 
 * Provide well-being and stress-management support for highly dependent students
 * Encourage consistent study habits alongside effective AI use
 * Identify students experiencing high AI dependency and anxiety for early support
-  
-## Project Files
-
-- `ai_academic_dashboard.png` — Dashboard preview
-- `ai_academic_dashboard.png` — Dashboard preview
-
